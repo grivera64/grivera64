@@ -2,13 +2,13 @@
 
 ## About me 🎙
 
-I am currently a college student perservering to earn their B.S. in CS.
+I am currently a college student perservering to earn their B.S. in Computer Science.
 
 ## Interests 🧠 💡
 
 I am interested in 🔎
 - Software Development 💻 ⚙
-- Web Development 📶
+- Web Development 📶🌎
 - Game Development 🎮📺
 
 ## Programming Languages 💻🖥
