@@ -2,7 +2,7 @@
 
 ## About me 🎙
 
-I am currently a college student perservering to earn their B.S. in Computer Science.
+I am currently a college student perservering to earn their B.S. in Computer Science. 👨‍🎓🎓
 
 ## Interests 🧠 💡
 
