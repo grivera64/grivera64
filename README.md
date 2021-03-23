@@ -26,10 +26,10 @@ I am interested in 🔎
 
 ### Past Projects 
 A few of my projects include
-- <a href="https://github.com/grivera64/Escape-Room-Game-CSSIx-2020" target="_blank">Escape Room Game</a> (JavaScript)
-- <a href="https://github.com/grivera64/CSC123-80-Project-5" target="_blank">CSC123-80-Project-5</a> (Java)
-- <a href="https://github.com/grivera64/Project-3-Twitter-Companion" target="_self">Project-3-Twitter-Companion</a> (Swift)
-- <a href="https://github.com/grivera64/flixster-unit-1/" target="_blank">flixster-unit-1</a> (Swift)
+- [Escape Room Game](https://github.com/grivera64/Escape-Room-Game-CSSIx-2020)
+- [CSC123-80-Project-5](https://github.com/grivera64/CSC123-80-Project-5)
+- [Project-3-Twitter-Companion](https://github.com/grivera64/Project-3-Twitter-Companion)
+- [flixster-unit-1](https://github.com/grivera64/flixster-unit-1)
 
 <!--
 ### Current Projects
