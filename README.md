@@ -24,6 +24,12 @@ I am interested in 🔎
 
 ## Projects 🛠
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=grivera64&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=grivera64&theme=tokyonight" />
+</p>
+
+
 ### Past Projects 
 A few of my projects include
 - [Escape Room Game](https://github.com/grivera64/Escape-Room-Game-CSSIx-2020)
