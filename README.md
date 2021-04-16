@@ -4,6 +4,13 @@
 
 I am currently a college student perservering to earn their B.S. in Computer Science. 👨‍🎓🎓
 
+<!-- GitHub README Stats API -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=grivera64&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=grivera64&theme=tokyonight" />
+</p>
+
+
 ## Interests 🧠 💡
 
 I am interested in 🔎
@@ -23,12 +30,6 @@ I am interested in 🔎
 - Swift
 
 ## Projects 🛠
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=grivera64&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=grivera64&theme=tokyonight" />
-</p>
-
 
 ### Past Projects 
 A few of my projects include
