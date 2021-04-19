@@ -38,23 +38,6 @@ A few of my projects include
 - [Project-3-Twitter-Companion](https://github.com/grivera64/Project-3-Twitter-Companion)
 - [flixster-unit-1](https://github.com/grivera64/flixster-unit-1)
 
-<!--
-### Current Projects
+### Current Projects 
 I am currently working on:
-- Derivative Calculator
-
-## Contact
-### Contact me @ _____
--->
-
-<!-- Defaults for README.md
-- 👋 Hi, I’m @grivera64 ! Welcome to my page!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-<!---
-grivera64/grivera64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Gitmoji-Clipboard](https://github.com/grivera64/Gitmoji-Clipboard)
