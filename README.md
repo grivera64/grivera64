@@ -18,17 +18,19 @@ I am interested in 🔎
 - Software Development 💻 ⚙
 - Web Development 📶🌎
 - Game Development 🎮📺
+- Artificial Intelligence 🤖🧠
 
 ## Programming Languages 💻🖥
 
 ### I have learned ✔
 - Java
 - JavaScript
+- C & C++
+- Python
 
 ### I am currently learning 📚:
-- C/C++
-- Python
 - Swift
+- Golang
 
 ## Projects 🛠
 
