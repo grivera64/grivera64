@@ -19,6 +19,7 @@ I am interested in 🔎
 - Web Development 📶🌎
 - Game Development 🎮📺
 - Artificial Intelligence 🤖🧠
+- Research 📄🔬
 
 ## Programming Languages 💻🖥
 
@@ -27,10 +28,11 @@ I am interested in 🔎
 - JavaScript
 - C & C++
 - Python
+- Golang
 
 ### I am currently learning 📚:
 - Swift
-- Golang
+- Rust
 
 ## Projects 🛠
 
@@ -40,7 +42,10 @@ A few of my projects include
 - [CSC123-80-Project-5](https://github.com/grivera64/CSC123-80-Project-5)
 - [Project-3-Twitter-Companion](https://github.com/grivera64/Project-3-Twitter-Companion)
 - [flixster-unit-1](https://github.com/grivera64/flixster-unit-1)
+- [Gitmoji-Clipboard](https://github.com/grivera64/Gitmoji-Clipboard)
 
 ### Current Projects 
 I am currently working on:
+- [Sensor-Network-with-MCF](https://github.com/grivera64/Sensor-Network-with-MCF)
+- [Data-Preservation-Simulation](https://github.com/grivera64/Data-Preservation-Simulation)
 - [Gitmoji-Clipboard](https://github.com/grivera64/Gitmoji-Clipboard)
