@@ -46,6 +46,6 @@ A few of my projects include
 
 ### Current Projects 
 I am currently working on:
-- [Sensor-Network-with-MCF](https://github.com/grivera64/Sensor-Network-with-MCF)
+- [Sensor-Generator-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF)
 - [Data-Preservation-Simulation](https://github.com/grivera64/Data-Preservation-Simulation)
 - [Gitmoji-Clipboard](https://github.com/grivera64/Gitmoji-Clipboard)
