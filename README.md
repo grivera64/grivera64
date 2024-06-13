@@ -58,7 +58,6 @@ A few of my projects include
 I am currently working on:
 - [grivera64/Data-Resilience-Based-Data-Preservation-Simulation](https://github.com/grivera64/Data-Resilience-Based-Data-Preservation-Simulation)
 - [gofiber/fiber](https://github.com/gofiber/fiber)
-- 
 
 
 ## Contact
