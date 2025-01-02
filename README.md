@@ -22,24 +22,26 @@ I am currently a graduate student persuing their Ph.D. in Computer Science at Un
 ## Interests 🧠 💡
 
 I am interested in 🔎
+- Computer Science Research 📄🔬
 - Software Development 💻 ⚙
-- Web Development 📶🌎
-- Game Development 🎮📺
 - Artificial Intelligence 🤖🧠
-- Research 📄🔬
+- High-Performance Computing
+
 
 ## Programming Languages 💻🖥
 
 ### I have learned ✔
+- C & C++
+- CUDA
+- MPI
+- Golang (Go)
 - Java
 - JavaScript
-- C & C++
 - Python
-- Golang
 
 ### I am currently learning 📚:
-- Swift
 - Rust
+- OpenMP
 
 ## Projects 🛠
 
@@ -47,6 +49,7 @@ You can find the most up-to-date list on my website: [https://grivera.io/project
 
 ### Past Projects 
 A few of my projects include
+- [grivera64/Data-Resilience-Based-Data-Preservation-Simulation](https://github.com/grivera64/Data-Resilience-Based-Data-Preservation-Simulation)
 - [grivera64/Priority-Based-Data-Preservation-Simulation](https://github.com/grivera64/Priority-Based-Data-Preservation-Simulation)
 - [grivera64/Data-Preservation-Simulation](https://github.com/grivera64/Data-Preservation-Simulation)
 - [grivera64/Sensor-Generator-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF)
@@ -54,10 +57,10 @@ A few of my projects include
 - [grivera64/Project-4-Parstagram](https://www.github.com/grivera64/Project-4-Parstagram)
 - [grivera64/Gitmoji-Clipboard](https://github.com/grivera64/Gitmoji-Clipboard)
 
-### Current Projects 
+### Current Projects
 I am currently working on:
-- [grivera64/Data-Resilience-Based-Data-Preservation-Simulation](https://github.com/grivera64/Data-Resilience-Based-Data-Preservation-Simulation)
-- [gofiber/fiber](https://github.com/gofiber/fiber)
+- Go Fiber (FOSS Contributions)
+  - [gofiber/fiber](https://github.com/gofiber/fiber)
 
 
 ## Contact
