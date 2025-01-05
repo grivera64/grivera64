@@ -25,7 +25,7 @@ I am interested in 🔎
 - Computer Science Research 📄🔬
 - Software Development 💻 ⚙
 - Artificial Intelligence 🤖🧠
-- High-Performance Computing
+- High-Performance Computing ⚙️⚡️
 
 
 ## Programming Languages 💻🖥
