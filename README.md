@@ -12,11 +12,11 @@
 I am currently a graduate student persuing their Ph.D. in Computer Science at University of California, Riverside. 👨‍🎓🎓 I earned my B.S. in Computer Science in May 2024 at California State University, Dominguez Hills.
 
 <!-- GitHub README Stats API -->
-<p align="center">
+<div align="center">
   <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=grivera64&show_icons=true&theme=tokyonight" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=grivera64&theme=tokyonight" />
   <img width="48%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=grivera64&layout=compact&theme=tokyonight" href = "https://github.com/grivera64" target = "_blank"/>
-</p>
+</div>
 
 
 ## Interests 🧠 💡
