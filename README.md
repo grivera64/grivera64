@@ -34,7 +34,7 @@ I am interested in 🔎
 - C & C++
 - CUDA
 - MPI
-- Golang (Go)
+- Go
 - Java
 - JavaScript
 - Python
