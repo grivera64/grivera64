@@ -61,6 +61,8 @@ A few of my projects include
 I am currently working on:
 - Go Fiber (FOSS Contributions)
   - [gofiber/fiber](https://github.com/gofiber/fiber)
+  - [gofiber/storage](https://github.com/gofiber/storage)
+  - [gofiber/website](https://github.com/gofiber/website)
 
 
 ## Contact
