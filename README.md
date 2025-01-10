@@ -33,7 +33,6 @@ I am interested in 🔎
 ### I have learned ✔
 - C & C++
 - CUDA
-- MPI
 - Go
 - Java
 - JavaScript
@@ -41,6 +40,13 @@ I am interested in 🔎
 
 ### I am currently learning 📚:
 - Rust
+
+## Programming Models 
+
+### I have learned ✔
+- MPI
+
+### I am currently learning 📚:
 - OpenMP
 
 ## Projects 🛠
