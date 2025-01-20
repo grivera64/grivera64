@@ -28,7 +28,7 @@ I am interested in 🔎
 - High-Performance Computing ⚙️⚡️
 
 
-## Programming Languages 💻🖥
+## Programming Languages 💻 🖥
 
 ### I have learned ✔
 - C & C++
