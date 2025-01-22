@@ -14,7 +14,7 @@ I am currently a graduate student persuing their Ph.D. in Computer Science at Un
 <!-- GitHub README Stats API -->
 <div align="center">
   <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=grivera64&show_icons=true&theme=tokyonight" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=grivera64&theme=tokyonight" />
+  <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=grivera64&theme=tokyonight" /> -->
   <img width="48%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=grivera64&layout=compact&theme=tokyonight" href = "https://github.com/grivera64" target = "_blank"/>
 </div>
 
