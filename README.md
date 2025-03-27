@@ -49,6 +49,21 @@ I am interested in 🔎
 ### I am currently learning 📚:
 - OpenMP
 
+## Research 🔬📡
+
+You can find my most up-to-date list of papers on my website: [https://grivera.io/papers](https://grivera.io/papers)
+
+### Past Research
+
+Data Preservation in Base Station-less Sensor Networks
+- **Giovanni Rivera**, Yutian Chen, and Bin Tang. On the Performance of Nash Equilibria for Data Preservation in Base Station-less Sensor Networks. 2023 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS), Toronto, ON, Canada, 2023, pp. 252-260, doi: 10.1109/MASS58611.2023.00038.
+- **Giovanni Rivera**, Yutian Chen, and Bin Tang. Nash Equilibria of Data Preservation in Base Station-Less Sensor Networks. 2023 Third Annual Computer Science Conference for CSU Undergraduates (CSCSU), Camarillo, CA, https://scholarworks.calstate.edu/concern/publications/vx021n445. [View PDF]
+- Related Repositories:
+  - [grivera64/Data-Resilience-Based-Data-Preservation-Simulation](https://github.com/grivera64/Data-Resilience-Based-Data-Preservation-Simulation)
+  - [grivera64/Priority-Based-Data-Preservation-Simulation](https://github.com/grivera64/Priority-Based-Data-Preservation-Simulation)
+  - [grivera64/Data-Preservation-Simulation](https://github.com/grivera64/Data-Preservation-Simulation)
+  - [grivera64/Sensor-Generator-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF)
+
 ## Projects 🛠
 
 You can find the most up-to-date list on my website: [https://grivera.io/projects](https://grivera.io/projects)
@@ -69,10 +84,7 @@ I am currently working on:
 A few of my projects include:
 
 - Research
-  - [grivera64/Data-Resilience-Based-Data-Preservation-Simulation](https://github.com/grivera64/Data-Resilience-Based-Data-Preservation-Simulation)
-  - [grivera64/Priority-Based-Data-Preservation-Simulation](https://github.com/grivera64/Priority-Based-Data-Preservation-Simulation)
-  - [grivera64/Data-Preservation-Simulation](https://github.com/grivera64/Data-Preservation-Simulation)
-  - [grivera64/Sensor-Generator-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF)
+  
 - FOSS Projects
   - [grivera64/Boucing-Square](https://github.io/grivera64/Bouncing-Square)
   - [grivera64/Project-4-Parstagram](https://www.github.com/grivera64/Project-4-Parstagram)
