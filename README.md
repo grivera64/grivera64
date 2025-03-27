@@ -55,20 +55,24 @@ You can find the most up-to-date list on my website: [https://grivera.io/project
 
 ### Current Projects
 I am currently working on:
-- Go Fiber (FOSS Contributions)
-  - [gofiber/fiber](https://github.com/gofiber/fiber)
-  - [gofiber/storage](https://github.com/gofiber/storage)
-  - [gofiber/website](https://github.com/gofiber/website)
+- FOSS Contributions
+  - Go Fiber
+    - [gofiber/fiber](https://github.com/gofiber/fiber)
+    - [gofiber/storage](https://github.com/gofiber/storage)
+    - [gofiber/website](https://github.com/gofiber/website)
 
 ### Past Projects 
-A few of my projects include
-- [grivera64/Data-Resilience-Based-Data-Preservation-Simulation](https://github.com/grivera64/Data-Resilience-Based-Data-Preservation-Simulation)
-- [grivera64/Priority-Based-Data-Preservation-Simulation](https://github.com/grivera64/Priority-Based-Data-Preservation-Simulation)
-- [grivera64/Data-Preservation-Simulation](https://github.com/grivera64/Data-Preservation-Simulation)
-- [grivera64/Sensor-Generator-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF)
-- [grivera64/Boucing-Square](https://github.io/grivera64/Bouncing-Square)
-- [grivera64/Project-4-Parstagram](https://www.github.com/grivera64/Project-4-Parstagram)
-- [grivera64/Gitmoji-Clipboard](https://github.com/grivera64/Gitmoji-Clipboard)
+A few of my projects include:
+
+- Research
+  - [grivera64/Data-Resilience-Based-Data-Preservation-Simulation](https://github.com/grivera64/Data-Resilience-Based-Data-Preservation-Simulation)
+  - [grivera64/Priority-Based-Data-Preservation-Simulation](https://github.com/grivera64/Priority-Based-Data-Preservation-Simulation)
+  - [grivera64/Data-Preservation-Simulation](https://github.com/grivera64/Data-Preservation-Simulation)
+  - [grivera64/Sensor-Generator-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF)
+- FOSS Contributions
+  - [grivera64/Boucing-Square](https://github.io/grivera64/Bouncing-Square)
+  - [grivera64/Project-4-Parstagram](https://www.github.com/grivera64/Project-4-Parstagram)
+  - [grivera64/Gitmoji-Clipboard](https://github.com/grivera64/Gitmoji-Clipboard)
 
 ## Contact
 
