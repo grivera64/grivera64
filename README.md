@@ -31,8 +31,8 @@ I am interested in 🔎
 ## Programming Languages 💻 🖥
 
 ### I have learned ✔
-- C & C++
-- CUDA
+- C
+- C++
 - Go
 - Java
 - JavaScript
@@ -45,6 +45,8 @@ I am interested in 🔎
 
 ### I have learned ✔
 - MPI
+- CUDA
+- Parlay
 
 ### I am currently learning 📚:
 - OpenMP
