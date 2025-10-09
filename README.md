@@ -77,6 +77,8 @@ I am currently working on:
     - [gofiber/fiber](https://github.com/gofiber/fiber)
     - [gofiber/storage](https://github.com/gofiber/storage)
     - [gofiber/website](https://github.com/gofiber/website)
+  - Fasthttp
+    - [valyala/fasthttp](https://github.com/valyala/fasthttp)
   - Ifacemaker
     - [vburenin/ifacemaker](https://github.com/vburenin/ifacemaker)
   - CodeAstra
